@@ -1,9 +1,8 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Aakash SL</h1>
-<h3 align="center">MD of NediVeil Technologies | Web & App developer| Video Editor | Poster Designer | Official & Social Media Manager of Agni Nizhalgal Foundation</h3>
+<h3 align="center">Web & App developer| Video Editor | Poster Designer | Official & Social Media Manager of Agni Nizhalgal Foundation</h3>
 
-🔭 I’m currently working on [Nediveil Technologies](https://nediveil.in)
-<br><br>🌱 I’m currently learning UI/UX, Flutter, Flask, React, Kotlin<br><br>💬 Ask me about Flask, Full Stack Development<br><br>📫 How to reach me aakash@nediveil.in
+<br>🌱 I’m currently learning UI/UX, Flutter, Flask, React, Kotlin<br><br>💬 Ask me about Flask, Full Stack Development<br><br>📫 How to reach me contact@aakashsl.me
 
 
 ## 🌐 Socials:
